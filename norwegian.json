@@ -1,12 +1,12 @@
 {"authors": {
-	"originally created by": "MertenNor",
+	"originally created by": "MertenNor and AndreasGan",
 	"modified by": [
-		"MertenNor		2011-07-02 08:46:16"
+		"AndreasGan		2013-18-09 17:10:00"
 	]},
 "translated strings": [
 	{
 		"or": "%d%% loaded",
-		"tr": "%d%% lastet"
+		"tr": "%d%% lastet inn"
 	},
 	{
 		"or": "%ds left",
@@ -42,11 +42,11 @@
 	},
 	{
 		"or": "Add",
-		"tr": "Legg til"
+		"tr": "Legg Til"
 	},
 	{
 		"or": "Add Friend",
-		"tr": "Legg til venn"
+		"tr": "Legg Til Venn"
 	},
 	{
 		"or": "Address",
@@ -62,7 +62,7 @@
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Er du sikker på at du vil slette denne demoen?"
+		"tr": "Er du sikker på at du vil slette demoen?"
 	},
 	{
 		"or": "Are you sure that you want to quit?",
@@ -82,7 +82,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Ta skjermbilder når runden er over"
+		"tr": "Ta skjermbilde automatisk når runden er over"
 	},
 	{
 		"or": "Blue team",
@@ -174,7 +174,7 @@
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Demo fil: %s"
+		"tr": "Demofil: %s"
 	},
 	{
 		"or": "Demos",
@@ -198,7 +198,7 @@
 	},
 	{
 		"or": "Dynamic Camera",
-		"tr": "Dynamisk kamera"
+		"tr": "Dynamisk Kamera"
 	},
 	{
 		"or": "Emoticon",
@@ -210,11 +210,11 @@
 	},
 	{
 		"or": "Error",
-		"tr": "Feil"
+		"tr": "Error"
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Kunne ikke laste in Demo`en"
+		"tr": "Kunne ikke laste inn demoen"
 	},
 	{
 		"or": "Favorite",
@@ -238,11 +238,11 @@
 	},
 	{
 		"or": "Force vote",
-		"tr": "Tvungen valg"
+		"tr": "Tving stemming"
 	},
 	{
 		"or": "Free-View",
-		"tr": "fri-visning"
+		"tr": "Fri-Visning"
 	},
 	{
 		"or": "Friends",
@@ -262,7 +262,7 @@
 	},
 	{
 		"or": "Game over",
-		"tr": "Spill avsluttet"
+		"tr": "Runde slutt"
 	},
 	{
 		"or": "Game type",
@@ -294,11 +294,11 @@
 	},
 	{
 		"or": "High Detail",
-		"tr": "Ekstra detaljer"
+		"tr": "Ekstra Detaljer"
 	},
 	{
 		"or": "Hook",
-		"tr": "Gripe tang"
+		"tr": "Krok"
 	},
 	{
 		"or": "Invalid Demo",
@@ -330,7 +330,7 @@
 	},
 	{
 		"or": "MOTD",
-		"tr": "Dagens melding"
+		"tr": "MOTD"
 	},
 	{
 		"or": "Map",
@@ -358,11 +358,11 @@
 	},
 	{
 		"or": "Movement",
-		"tr": "Beveglighet"
+		"tr": "Bevegelse"
 	},
 	{
 		"or": "Mute when not active",
-		"tr": "Slå av lyd når spillet ikke er aktivt"
+		"tr": "Demp lyd når spillet ikke er aktivt"
 	},
 	{
 		"or": "Name",
@@ -370,7 +370,7 @@
 	},
 	{
 		"or": "Next weapon",
-		"tr": "Neste Våpen"
+		"tr": "Neste våpen"
 	},
 	{
 		"or": "Nickname",
@@ -382,7 +382,7 @@
 	},
 	{
 		"or": "No password",
-		"tr": "ikke passord"
+		"tr": "Ikke passord"
 	},
 	{
 		"or": "No servers found",
@@ -434,7 +434,7 @@
 	},
 	{
 		"or": "Player country:",
-		"tr": "spiller landet"
+		"tr": "Spillere med flagg:"
 	},
 	{
 		"or": "Player options",
@@ -482,7 +482,7 @@
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "Opdaterer master servere"
+		"tr": "Oppdaterer master servere"
 	},
 	{
 		"or": "Remote console",
@@ -490,27 +490,27 @@
 	},
 	{
 		"or": "Remove",
-		"tr": "Ta bort"
+		"tr": "Fjern"
 	},
 	{
 		"or": "Remove friend",
-		"tr": "Ta bort venn"
+		"tr": "Fjern venn"
 	},
 	{
 		"or": "Rename",
-		"tr": "Gi nytt navn"
+		"tr": "Endre navn"
 	},
 	{
 		"or": "Rename demo",
-		"tr": "Gi nytt navn på Demo"
+		"tr": "Endre navn på Demo"
 	},
 	{
 		"or": "Reset filter",
-		"tr": "Tilbakestill filteret"
+		"tr": "Tilbakestill filter"
 	},
 	{
 		"or": "Sample rate",
-		"tr": "Enkel frekvens"
+		"tr": "Samplingsfrekvens"
 	},
 	{
 		"or": "Score",
@@ -534,7 +534,7 @@
 	},
 	{
 		"or": "Server address:",
-		"tr": "Serveradresse"
+		"tr": "Server adresse:"
 	},
 	{
 		"or": "Server details",
@@ -550,7 +550,7 @@
 	},
 	{
 		"or": "Server not full",
-		"tr": "Serveren er ikke full"
+		"tr": "Server ikke full"
 	},
 	{
 		"or": "Settings",
@@ -562,11 +562,11 @@
 	},
 	{
 		"or": "Show chat",
-		"tr": "Vis samtale"
+		"tr": "Vis chat"
 	},
 	{
 		"or": "Show friends only",
-		"tr": "Vis venner"
+		"tr": "Vis bare venner"
 	},
 	{
 		"or": "Show ingame HUD",
@@ -578,7 +578,7 @@
 	},
 	{
 		"or": "Show only supported",
-		"tr": "Vis kompatible"
+		"tr": "Vis bare støttet"
 	},
 	{
 		"or": "Skins",
@@ -602,11 +602,11 @@
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Se på forige"
+		"tr": "Se på forrige"
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Tilhenger modus"
+		"tr": "Tilskuermodus"
 	},
 	{
 		"or": "Spectators",
@@ -614,7 +614,7 @@
 	},
 	{
 		"or": "Standard gametype",
-		"tr": "Standard spilletyper"
+		"tr": "Standard spilletype"
 	},
 	{
 		"or": "Standard map",
@@ -626,15 +626,15 @@
 	},
 	{
 		"or": "Strict gametype filter",
-		"tr": "spilltype-filter"
+		"tr": "Strengt spilltype filter"
 	},
 	{
 		"or": "Sudden Death",
-		"tr": "Brå død"
+		"tr": "Sudden Death"
 	},
 	{
 		"or": "Switch weapon on pickup",
-		"tr": "Bytt våpen ved innsamling"
+		"tr": "Bytt våpen ved pickup"
 	},
 	{
 		"or": "Team",
@@ -642,31 +642,31 @@
 	},
 	{
 		"or": "Team chat",
-		"tr": "Lagsamtale"
+		"tr": "Lag Chat"
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworlds %s er ute! Last ned på www.teeworlds.com!"
+		"tr": "Teeworlds %s er ute! Last den ned via www.teeworlds.com!"
 	},
 	{
 		"or": "Texture Compression",
-		"tr": "Teksturkompressjon"
+		"tr": "Teksturkomprimering"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
-		"tr": "Lydenheten kunne ikke initialiseres."
+		"tr": "Lydenheten kunne ikke startes opp."
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "Denne serveren kjører ikke standard-innstillinger på standard spilltype."
+		"tr": "Serveren kjører ikke-standard tuning på en pur spilltype."
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Det er en ulagret bane i baneredigereren, du vil kanskje lagre den før du avslutter."
+		"tr": "Det er en ulagret bane i redigereren, det kan være lurt å lagre den før du avslutter spillet."
 	},
 	{
 		"or": "Time limit",
-		"tr": "Tidsbegrensning"
+		"tr": "Tidsgrense"
 	},
 	{
 		"or": "Time limit: %d min",
@@ -714,7 +714,7 @@
 	},
 	{
 		"or": "Vote no",
-		"tr": "Stem Nei"
+		"tr": "Stem nei"
 	},
 	{
 		"or": "Vote yes",
@@ -742,448 +742,448 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Du må starte spillet på nytt før alle endringene tar effekt."
+		"tr": "Du må starte spillet på nytt for at alle instillingene skal tre i kraft."
 	}],
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f KiB"
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d spiller igjen"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d spiller er ikke klar"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d spillere igjen"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d spillere er ikke klare"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d servere, %d spillere"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' stemte for å kaste ut spiller '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "'%s' stemte for å flytte '%s' til tilskuere (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' stemte for å endre serverinstilling '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "'%s' kom inn og ble med i %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "'%s' har forlatt spillet."
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "'%s' har forlatt spillet (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": ""
+		"tr": "'%s' ble med i %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Admin tvang serverinstilling '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Admin tvang stemme nei"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Admin tvang stemme ja"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Admin flyttet '%s' til tilskuere (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Alp:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Anti Aliasing"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Er du sikker på at du vil endre navn på demoen?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Er du sikker på at du vil lagre utseende ditt? Hvis et utseende med dette navnet allerede finnes, vil det bli erstattet."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Tilbake"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Basic"
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Kropper"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Kantløst vindu"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Leser"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Farge"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Opprettet"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Egendefinert"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Tilpass"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Dekorasjon"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Demo"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Detalj"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Baneredigerer"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Øyne"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Format"
 	},
 	{
 		"or": "Game paused",
-		"tr": ""
+		"tr": "Kampen ble pauset."
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Kampen begynner om"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Global"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Hender"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Host adresse:"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Nyanse"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Bli med"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Ble med"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Ble med blått"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Ble med rødt"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Utkastingsstemming krever %d spillere på serveren"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Laser"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Lengde"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Letterbox"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Lokal"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Lokal server"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Kamp"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Maks"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Diverse"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Nettversjon"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Kallenavn er tomt."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Normal:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Bare %d aktive spillere er tillatt."
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Personlig"
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Klar"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Ta opp"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Innspilt"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Tilbakestill"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Oppløsninger"
 	},
 	{
 		"or": "Respawn",
-		"tr": ""
+		"tr": "Respawn"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Runde slutt"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Runde slutt!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Sat:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Lagre"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Lagre utseende"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Skjerm"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Søk:"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Serveren tillater ikke stemming for å kaste ut spillere"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Serveren tillater ikke stemming for å flytte spillere til tilskuere"
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Servere"
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": ""
+		"tr": "Vis bare chat-meldinger fra venner"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Størrelse"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Utseende"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Ser på"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Tilskuere er ikke tillatt å starte en stemming."
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Standard Spilletype"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Tatovering"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Tatoveringer"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Lag:"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Lag er låst"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Lag er låst. Tid å vente før bytting av lag: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Lagene ble låst"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Lagene ble låst opp"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Tekstur"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Volum"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Stemming avbrutt"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Stemming mislyktes"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Stemming passerte"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Vent til nåværende stemming slutter før du kaller en ny"
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Vent på neste runde"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Bred"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Du må vente %d sekunder før du kaller en ny stemme"
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "blå"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "blått lag"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "spill"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "låst"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "ingen spillere"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "rød"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "rødt lag"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "tilskuere"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "vent på flere spillere"
 	}],
 "old translations": [
 	{
@@ -1192,7 +1192,7 @@
 	},
 	{
 		"or": "Sat.",
-		"tr": "Metning"
+		"tr": "Sat."
 	},
 	{
 		"or": "Miscellaneous",
@@ -1216,7 +1216,7 @@
 	},
 	{
 		"or": "FSAA samples",
-		"tr": "FSAA prøver"
+		"tr": "FSAA samples"
 	},
 	{
 		"or": "%d of %d servers, %d players",
@@ -1336,7 +1336,7 @@
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Er du sikker på at du vil lagre "
 	},
 	{
 		"or": "Current version: %s",
